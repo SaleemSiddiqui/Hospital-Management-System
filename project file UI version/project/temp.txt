@@ -1,0 +1,7 @@
+Dr.Tariq 31524564457 male 34 Ear_nose_and_throat_(ENT) 1*
+Dr.muneeba 3352496318 female 30 Accident_and_emergency_(A&E) 2*
+Dr.Kaleem 3312886341 male 28 General_surgery 3*
+saleem 3152496309 male 21 General_surgery 4*
+saleem 315424444487 Male 21 Diagnostic_imaging 6*
+mani 844646446454 Male 22 General_surgery 7*
+Dr.Mohsin 51446646465456 Male 35 Ear_nose_and_throat_(ENT) 8*
